@@ -1,0 +1,3 @@
+A clustering model to group customers into distinct groups was built, trained and visualized. K-means
+clustering and Hierarchical Clustering algorithms were used. Optimal value of k was obtained with the help of Elbow
+method. Dimensionality reduction was performed using PCA technique. 

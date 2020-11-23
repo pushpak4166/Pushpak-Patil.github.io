@@ -1,0 +1,4 @@
+Using OpenCv, the face and the eyes of the driver were detected and then a CNN model was used that
+can predict the state of a person’s eye Open or Closed. A threshold score (in seconds) was set, above which an alarm
+is played to create an alert. Input was taken from webcam then the face and eyes were identified by creating the
+region of interest.

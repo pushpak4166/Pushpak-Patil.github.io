@@ -1,0 +1,9 @@
+The project uses OpenCv for reading the videos of the road. The video frames were smoothened using
+the GaussianBlur function. Region of interest (ROI) was identified and then edges of the lanes were detected using
+Canny method. Further bitwise AND operation was performed between region of interest and masked frame.
+ Using Hough Transform the straight lines in the frames were identified. The lines identified were
+superimposed on the original frame. Further the lines were optimized by averaging out the slope and y-intercept of
+multiple lines into a single line and the lane was obtained. 
+
+
+link to project: https://github.com/pushpak4166/Real-Time-Lane-Detection-

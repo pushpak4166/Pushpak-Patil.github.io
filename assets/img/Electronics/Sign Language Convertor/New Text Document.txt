@@ -1,0 +1,4 @@
+This project was based on converting sign language to words and letters. In this project the movement
+of hand was detected using flex sensors and the result was displayed using a LCD. The project was aimed at helping
+Deaf and dumb people to communicate with others.
+ Tools used - Atmega-8, LCD display, PCB designing using Eagle, Flex sensor.

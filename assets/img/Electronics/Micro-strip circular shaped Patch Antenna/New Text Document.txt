@@ -1,0 +1,3 @@
+Micro-strip circular shaped Patch antenna was designed for resonance frequency of 2.6 GHz with
+reflection coefficient magnitude less than -20 dB . The design of antenna was implemented on Cadfeko software
+and after getting correct results it was implemented as a hardware.

@@ -1,0 +1,4 @@
+The idea behind this project was to deploy a trained neural network to the FPGA using VHDL. User inputs
+data with the toggle keys which represent two (5 bit) vector input features. This is passed through a function
+Approximator which has been previously trained on a given dataset. The output of this model is a 2 bit vector with
+activations for each class.

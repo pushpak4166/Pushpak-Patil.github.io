@@ -1,0 +1,7 @@
+In this project, a deep neural network model was built with the help of sequential model available in
+Keras that can classify traffic signs into 43 different classes.
+ The model was compiled with Adam optimizer which performs well and categorical_crossentropy loss
+function was used because we have multiple classes to categorize. The model was trained with the dataset
+containing more than 50,000 images of different traffic signs. The test accuracy achieved by the model is 95%. 
+
+link :https://github.com/pushpak4166/Traffic-sign-recognition-
